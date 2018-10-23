@@ -1,4 +1,4 @@
-# New Hamphsire Digital Library: Imaging Guidelines
+# New Hampshire Digital Library: Imaging Guidelines
 
 While it is not possible to capture every physical nuance of materials or to anticipate all possible future uses, we recommend scanning or digitally photographing (imaging) at sufficient resolution to support the primary functions of the original material, i.e., all text should be easily readable and images should be clear and detailed. This will reduce the need to re-digitize materials for the foreseeable future.
 
